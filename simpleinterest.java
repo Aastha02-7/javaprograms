@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class interest {
+public class simpleinterest {
 	public static void main (String [] args) {
 		 Scanner ip= new Scanner(System.in);
 		  	float  p =ip.nextFloat();
